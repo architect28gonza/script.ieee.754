@@ -1,6 +1,7 @@
 
 Nota:
-Hola, debes ingresar valor con punto '.' no ingreses valores con ','
-el Metodo de IEEE 754 acepta valores enteros y decimales.
+Hola, debes ingresar valores con punto '.'(sin comillas) no ingreses valores con ','
+el Metodo de la IEEE 754 acepta valores enteros y decimales.
 
-El alogoritmo de IEEE 754 esta hecho en Octave.
+El algoritmo de IEEE 754 esta hecho en Octave.
+
