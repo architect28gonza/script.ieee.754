@@ -5,3 +5,5 @@ el Metodo de la IEEE 754 acepta valores enteros y decimales.
 
 El algoritmo de IEEE 754 esta hecho en Octave.
 
+Function Info() = { Ángel de Jesús González Sánchez Ing. Sistemas } 
+
