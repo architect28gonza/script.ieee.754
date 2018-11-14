@@ -81,7 +81,7 @@ function [] = Positivo(numero, listaM, signo, decimal)
   endfor
   disp("");
 endfunction
-
+%Este Metodo retorna TRUE la parte decimal es periodica, de lo contrario retorna FALSE
 function [ band ]  = Repetidos( repetidos, cociente, band )
   for x = 1:length(repetidos)
     if(length(repetidos) == 1)
